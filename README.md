@@ -11,7 +11,7 @@ Kitap okuma planlayıcısı ve hatırlatıcısı uygulama.
 - İsmail Gürkan Ünal: Scrum Master
 - Güllü Yılmaz: Team Member/Developer
 - Bilge Akdoğan: Team Member/Developer
-- Beratcan Duğancı: Team Member/Develoer
+- Beratcan Duğancı: Team Member/Developer
 
 ## Ürün İsmi
 
