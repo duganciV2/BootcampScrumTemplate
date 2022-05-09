@@ -59,9 +59,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
-
+  
 - **Sprint Review**: 
 Alınan kararlar: Kodlama kısmıyla ilgili ilerleme kaydederken aynı zamanda tasarım anlamında da çalışmaların yapılmasına karar verdik. Bunların yanında kullanıcı ihtiyaçlarının daha iyi anlamak ve uygulamamızı geliştirmek adına araştırmalar yapmamız gerektiğini fark ettik.  Sprint Review katılımcıları:Nursena Öner, Beratcan Duğancı, İsmail Gürkan Ünal, Bilge Akdoğan, Güllü Yılmaz
 
