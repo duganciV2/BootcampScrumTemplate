@@ -44,9 +44,9 @@ Kitap okuma planlayıcısı ve hatırlatıcısı uygulama.
 
 - **Sprint Notları**: Uygulama fikri kesinleşti. Uygulamaya hangi özelliklerin ekleneceği kararlaştırıldı. Bir sonraki sprinte kadarki hedefler belirlendi.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 110 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 500 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 110 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -69,10 +69,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Alınan kararlar: Kodlama kısmıyla ilgili ilerleme kaydederken aynı zamanda tasarım anlamında da çalışmaların yapılmasına karar verdik. Bunların yanında kullanıcı ihtiyaçlarının daha iyi anlamak ve uygulamamızı geliştirmek adına araştırmalar yapmamız gerektiğini fark ettik.  Sprint Review katılımcıları:Nursena Öner, Beratcan Duğancı, İsmail Gürkan Ünal, Bilge Akdoğan, Güllü Yılmaz
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+  - Ekip iletişiminin sıklaşması için kararlar alındı
   - Ürünü iyileştirmek için potansiyel kullanıcılara anketler yapılmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+
 
 -**Diğer Notlar**:
 - N/A
