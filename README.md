@@ -59,6 +59,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- https://i.hizliresim.com/9s1vnek.jpg
+- 
   
 - **Sprint Review**: 
 Alınan kararlar: Kodlama kısmıyla ilgili ilerleme kaydederken aynı zamanda tasarım anlamında da çalışmaların yapılmasına karar verdik. Bunların yanında kullanıcı ihtiyaçlarının daha iyi anlamak ve uygulamamızı geliştirmek adına araştırmalar yapmamız gerektiğini fark ettik.  Sprint Review katılımcıları:Nursena Öner, Beratcan Duğancı, İsmail Gürkan Ünal, Bilge Akdoğan, Güllü Yılmaz
