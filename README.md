@@ -55,6 +55,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  
 ![gorsel5](https://i.hizliresim.com/im2wazw.jpeg)
 - **Sprint board update**: Sprint board screenshotları: 
+
 ![Backlog 1](https://i.hizliresim.com/8dmilg2.png) 
 
 
